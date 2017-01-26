@@ -8,7 +8,7 @@ Source code has the following
 >Has algorithm to calculate Centre of Mass and find position vectors on image.
 
 ###conquest
->Other code for arena classification written by Dyutimoy( @dyutimoy )
+>Other code for arena classification written by Dyutimoy( @dyutimoy ).
 >Uses Corner Harris to detect corners.
 
 ###colourdetect
