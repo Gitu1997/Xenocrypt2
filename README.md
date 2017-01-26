@@ -8,3 +8,4 @@ Source code has the following
 4. blobdetection: New algorithm for detection of different coloured blobs
 5. click_colour: Using callback function to retrieve RGB values of source image pixel
 6. triangledetect: Attempt at algorithm to detect Triangles in an image. Currently detects all polygons
+7. pseudo: Trial file for sanbox purposes
