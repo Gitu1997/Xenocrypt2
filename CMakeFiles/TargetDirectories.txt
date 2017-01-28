@@ -1,0 +1,8 @@
+/home/gitu/Xenocrypt/CMakeFiles/blobdetection.dir
+/home/gitu/Xenocrypt/CMakeFiles/click_colour.dir
+/home/gitu/Xenocrypt/CMakeFiles/colour_detect.dir
+/home/gitu/Xenocrypt/CMakeFiles/conquest.dir
+/home/gitu/Xenocrypt/CMakeFiles/crypt.dir
+/home/gitu/Xenocrypt/CMakeFiles/pseudo.dir
+/home/gitu/Xenocrypt/CMakeFiles/triangledetect.dir
+/home/gitu/Xenocrypt/CMakeFiles/videocolour.dir
